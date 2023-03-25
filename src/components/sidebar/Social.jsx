@@ -14,19 +14,19 @@ const Social = () => {
             </li>
 
             <li className="social-item">
-                <a href="https://github.com/ridhoalfiann" target="_blank" class="social-link">
+                <a href="https://github.com/ridhoalfiann" target="_blank" className="social-link">
                     <AiOutlineGithub className='ion-icon' />
                 </a>
             </li>
 
             <li className="social-item">
-                <a href="https://www.instagram.com/ridho_alfian_" target="_blank" class="social-link">
+                <a href="https://www.instagram.com/ridho_alfian_" target="_blank" className="social-link">
                     <AiOutlineInstagram className='ion-icon' />
                 </a>
             </li>
 
-            <li class="social-item">
-                <a href="https://www.linkedin.com/in/ridho-alfian/" target="_blank" class="social-link">
+            <li className="social-item">
+                <a href="https://www.linkedin.com/in/ridho-alfian/" target="_blank" className="social-link">
                     <IoLogoLinkedin className='ion-icon' />
                 </a>
             </li>
