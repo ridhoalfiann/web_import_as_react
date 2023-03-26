@@ -5,7 +5,6 @@ import { BiChevronDown } from 'react-icons/bi';
 import Info from './Info';
 
 const Sidebar = () => {
-
     const navRef = useRef();
     const show = () => {
         navRef.current.classList.toggle('active');
