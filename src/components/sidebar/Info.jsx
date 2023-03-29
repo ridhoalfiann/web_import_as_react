@@ -1,4 +1,4 @@
-import React from 'react';
+import * as React from 'react';
 import { IoCalendarOutline, IoLocationOutline, IoMailOutline } from 'react-icons/io5';
 import { HiOutlineDevicePhoneMobile } from 'react-icons/hi2';
 import Social from './Social';

@@ -1,11 +1,11 @@
-import React from 'react';
+import * as React from 'react';
 import './about.css';
 import frontend from '../../images/icon-dev.svg';
 import backend from '../../images/backend-dev.svg';
-import Skills from './Skills';
+import Skills from './Skills';  
 
 const About = () => {
-    return (
+    return ( 
         <article className="about active">
             <header>
                 <h2 className="h2 article-title">About me</h2>

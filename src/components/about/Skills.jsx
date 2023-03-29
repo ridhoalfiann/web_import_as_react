@@ -1,4 +1,4 @@
-import React from 'react';
+import * as React from 'react';
 import HTML from '../../images/html-5-svgrepo-com.svg';
 import CSS from '../../images/css-3-svgrepo-com.svg';
 import JS from '../../images/javascript-logo-svgrepo-com.svg';

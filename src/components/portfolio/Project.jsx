@@ -1,4 +1,4 @@
-import React from 'react';
+import * as React from 'react';
 import { AiOutlineEye } from 'react-icons/ai';
 import Project1 from '../../images/project-1.jpg'
 import Project2 from '../../images/project-2.png'

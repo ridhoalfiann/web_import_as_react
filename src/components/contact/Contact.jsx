@@ -1,4 +1,4 @@
-import React from 'react';
+import * as React from 'react';
 import './contact.css';
 import { IoPaperPlane } from 'react-icons/io5';
 

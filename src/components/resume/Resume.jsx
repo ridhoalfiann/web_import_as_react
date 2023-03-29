@@ -1,4 +1,4 @@
-import React from 'react';
+import * as React from 'react';
 import './resume.css';
 import { IoBookOutline } from 'react-icons/io5';
 

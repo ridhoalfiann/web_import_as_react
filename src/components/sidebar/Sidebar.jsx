@@ -1,11 +1,11 @@
-import React, { useRef } from 'react';
+import * as React from 'react';
 import './sidebar.css';
 import ME from '../../images/ME-RE.png';
 import { BiChevronDown } from 'react-icons/bi';
 import Info from './Info';
 
 const Sidebar = () => {
-    const navRef = useRef();
+    const navRef = React.useRef();
     const show = () => {
         navRef.current.classList.toggle('active');
     };

@@ -1,8 +1,8 @@
-import React from 'react';
+import * as React from 'react';
 import { HiOutlineDocumentArrowDown } from 'react-icons/hi2';
 import CV from '../../images/sampel.txt';
 import { AiOutlineGithub, AiOutlineInstagram } from 'react-icons/ai';
-import { IoLogoLinkedin } from 'react-icons/io5';
+import { IoLogoLinkedin, IoLogoTiktok } from 'react-icons/io5';
 
 const Social = () => {
     return (
@@ -28,6 +28,12 @@ const Social = () => {
             <li className="social-item">
                 <a href="https://www.linkedin.com/in/ridho-alfian/" target="_blank" className="social-link">
                     <IoLogoLinkedin className='ion-icon' />
+                </a>
+            </li>
+
+            <li className="social-item">
+                <a href="https://www.tiktok.com/@punyaamellll" target="_blank" className="social-link">
+                    <IoLogoTiktok className='ion-icon' />
                 </a>
             </li>
         </ul>

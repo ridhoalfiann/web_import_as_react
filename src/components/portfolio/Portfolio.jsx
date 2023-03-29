@@ -1,4 +1,4 @@
-import React from 'react';
+import * as React from 'react';
 import { BiChevronDown } from 'react-icons/bi';
 import './portfolio.css';
 import Project from './Project';

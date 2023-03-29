@@ -1,4 +1,4 @@
-import React from 'react';
+import * as React from 'react';
 import './blog.css';
 import Blog1 from '../../images/blog-1.jpg';
 import Blog2 from '../../images/blog-2.jpg';
